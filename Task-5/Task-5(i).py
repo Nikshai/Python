@@ -1,0 +1,10 @@
+def arith_op(x,y):
+    print("Addition:",x + y)
+    print("Subtraction:",x - y)
+    print("Multiplication:",x * y)
+    print("Division:",x / y)
+a = input("Enter a value:")
+b = input("Enter a value:")
+c = int(a)
+d = int(b)
+print(arith_op(c,d))

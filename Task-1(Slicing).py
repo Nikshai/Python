@@ -1,2 +1,2 @@
 a = "Hello World"
-print(a[2:10])
+print(a[2:10)
